@@ -76,7 +76,7 @@ curl --request GET \
 
 PNG image that will look similar to this: 
 
-![file2](https://user-images.githubusercontent.com/6684672/233451099-461446d4-2d9a-4557-95c1-3f8f3a36840d.png | width=100 | height=100)
+![file2](https://user-images.githubusercontent.com/6684672/233451099-461446d4-2d9a-4557-95c1-3f8f3a36840d.png =250x250)
 
 ### Get a DICOM Header Attribute for DICOM file based on header tag
 
