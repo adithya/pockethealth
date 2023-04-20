@@ -44,6 +44,8 @@ curl --request GET \
 
 ## API Docs
 
+You choose to run the API calls through the command line, or using the repo's [Insomnia](https://insomnia.rest/) [collection](https://github.com/adithya/pockethealth/blob/main/PocketHealth_Challenge_Insomnia_Collection.json). 
+
 ### Upload a DICOM File
 
 **Endpoint** `POST /dicom`
