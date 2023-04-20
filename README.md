@@ -73,7 +73,10 @@ curl --request GET \
 ```
 
 **Response:**
-PNG IMAGE 
+
+PNG image that will look similar to this: 
+
+![file2](https://user-images.githubusercontent.com/6684672/233451099-461446d4-2d9a-4557-95c1-3f8f3a36840d.png)
 
 ### Get a DICOM Header Attribute for DICOM file based on header tag
 
