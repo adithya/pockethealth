@@ -96,3 +96,8 @@ curl --request GET \
 ```
 
 ## Next Steps
+
+- Implement workaround to resolve issue with github.com/suyashkumar/dicom library that makes [valid PNGs to appear as a completely black image](https://github.com/suyashkumar/dicom/issues/164)
+- Implement real object storage
+- Add users and access control to ensure users can only access their own dicom files
+- Add better error logging and monitoring
