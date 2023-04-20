@@ -78,6 +78,9 @@ curl --request GET \
 
 PNG image that will look similar to this: 
 
+> **Note**
+> There is a [known issue](https://github.com/suyashkumar/dicom/issues/164) with the github.com/suyashkumar/dicom library that causes the PNG images to appear as black on MacOS. You may need to open the image in preview and go to Tools -> Adjust Color and play around with the sliders to see the actual image contents.
+
 <img src="https://user-images.githubusercontent.com/6684672/233451099-461446d4-2d9a-4557-95c1-3f8f3a36840d.png" width="250" height="250">
 
 ### Get a DICOM Header Attribute for DICOM file based on header tag
