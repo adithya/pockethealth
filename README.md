@@ -46,6 +46,8 @@ curl --request GET \
 
 You choose to run the API calls through the command line, or using the repo's [Insomnia](https://insomnia.rest/) [collection](https://github.com/adithya/pockethealth/blob/main/PocketHealth_Challenge_Insomnia_Collection.json). 
 
+After uploading the image using the POST endpoint, you will recieve a GUID in response, this GUID is the {id} that is used for subsequent API requests.
+
 ### Upload a DICOM File
 
 **Endpoint** `POST /dicom`
